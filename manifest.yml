@@ -1,5 +1,5 @@
 applications:
-  - name: console
+  - name: admin
     memory: 1512M
     disk_quota: 1024M
     host: console
